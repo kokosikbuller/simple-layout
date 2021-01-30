@@ -1,0 +1,10 @@
+$(function(){
+
+    
+new WOW().init();
+
+
+
+
+
+});
